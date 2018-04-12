@@ -6,4 +6,4 @@ This is the repository for The Ready's governance. It is where we store, track,a
 
 ### Editing & Changing
 
-# Maintainer Role
+### Maintainer Role
